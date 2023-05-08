@@ -1,2 +1,2 @@
 # shell_project
-shell-tooll
+shell-tool
